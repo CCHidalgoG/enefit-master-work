@@ -1,0 +1,4 @@
+# For no upload data to github
+data/*
+.idea/*
+venv/
